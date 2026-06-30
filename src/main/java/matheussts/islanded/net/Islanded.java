@@ -60,7 +60,7 @@ public class Islanded implements ModInitializer {
 		//changing the profundity of sea
 		SeaChanger.topographyInterceptor();
 
-		//registering the idiot fishS
+		//registering the fish
 		ModEntities.registerModEntityTypes();
 		ModEntities.registerAttributes();
 		FishMaker.registerMaterialsEntries();
