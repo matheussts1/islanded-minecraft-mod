@@ -30,18 +30,6 @@ Este projeto foi desenvolvido aplicando boas práticas de engenharia de software
 *   **Framework:** Fabric API / Fabric Loader
 *   **Gerenciador de Dependências:** Gradle
 *   **Configuração de Dados:** JSON (Minecraft Data Generation)
-
----
-
-## 📦 Como Jogar
-
-Se você quiser apenas testar o mod no seu cliente:
-
-1. Baixe o arquivo `.jar` na aba [Releases](https://github.com/[seu_usuario_do_github]/[nome_do_repositorio]/releases).
-2. Certifique-se de ter o **Fabric Loader** instalado na versão correta do seu Minecraft.
-3. Jogue o arquivo `.jar` baixado dentro da sua pasta `.minecraft/mods`.
-4. Inicie o jogo.
-
 ---
 
 ## 🔨 Como Compilar o Projeto (Desenvolvedores)
