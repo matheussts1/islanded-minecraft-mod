@@ -44,7 +44,6 @@ public class Islanded implements ModInitializer {
 		ThirstServerPacket.init();
 
 		//registering the items
-		RegisterTools.RegisterToolsEntries();
 		RegisterBottles.registerBottleEntries();
 		RegisterMaterials.registerMaterialsEntries();
 
