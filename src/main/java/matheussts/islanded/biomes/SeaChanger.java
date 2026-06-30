@@ -17,7 +17,7 @@ public class SeaChanger {
             ResourceLocation.withDefaultNamespace("overworld")
     );
 
-    //getting the present sea profundity and multiplying by 10
+    //getting the present sea profundity and multiplying 10
     public static void topographyInterceptor() {
         DynamicRegistrySetupCallback.EVENT.register(registryView -> {
             registryView.registerEntryAdded(Registries.NOISE_SETTINGS, ((rawId, id, object) -> {
