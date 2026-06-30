@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "islanded:item/cooked_clown_fish"
+  }
+}

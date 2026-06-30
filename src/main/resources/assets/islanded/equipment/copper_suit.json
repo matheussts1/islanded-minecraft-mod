@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "islanded:copper_suit"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "islanded:copper_suit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "islanded:item/bucket_of_clownfish"
+  }
+}

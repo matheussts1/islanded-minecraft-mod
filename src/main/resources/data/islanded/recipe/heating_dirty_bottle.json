@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": "islanded:dirty_water_bottle",
+  "result": {
+    "id": "islanded:water_bottle",
+    "count": 1
+  },
+  "experience": 0.35,
+  "cooking_time": 200
+}

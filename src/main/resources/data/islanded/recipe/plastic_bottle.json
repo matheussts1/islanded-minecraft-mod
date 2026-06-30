@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P P",
+    " P "
+  ],
+  "key": {
+    "P": "islanded:plastic"
+  },
+  "result": {
+    "id": "islanded:plastic_bottle",
+    "count": 1
+  }
+}

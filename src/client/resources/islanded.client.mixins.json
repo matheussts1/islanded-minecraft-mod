@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "matheussts.islanded.net.client.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin",
+		"InGameHudMixinThirst",
+		"InGameHudMixinOxygen",
+		"InGameHudMixinDepth"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

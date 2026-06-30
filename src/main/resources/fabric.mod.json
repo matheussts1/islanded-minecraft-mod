@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "islanded",
+	"version": "${version}",
+	"name": "Islanded",
+	"description": "Mod inspired in subnautica, that has mobs, item progression and exploration of the sea.",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/islanded/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"matheussts.islanded.net.Islanded"
+		],
+		"client": [
+			"matheussts.islanded.net.client.IslandedClient"
+		],
+		"fabric-datagen": [
+			"matheussts.islanded.datagen.IslandedDataGenerator"
+		]
+	},
+	"mixins": [
+		"islanded.mixins.json",
+		{
+			"config": "islanded.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

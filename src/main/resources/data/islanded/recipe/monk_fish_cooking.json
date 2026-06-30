@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": "islanded:raw_monk_fish",
+  "result": {
+    "id": "islanded:cooked_monk_fish",
+    "count": 1
+  },
+  "experience": 0.35,
+  "cooking_time": 200
+}

@@ -1,0 +1,26 @@
+{
+  "item.islanded.radio": "Radio",
+
+  "item.islanded.plastic_bottle": "Plastic Bottle",
+  "item.islanded.dirty_water_bottle": "Dirty Water Bottle",
+  "item.islanded.water_bottle": "Water Bottle",
+
+  "item.islanded.plastic": "Plastic",
+  "block.islanded.plastic_block": "Plastic Block",
+
+  "death.attack.islanded.thirst": "%1$s morreu de sede",
+  "effect.islanded.thirst_effect": "Thirst",
+
+  "item.islanded.raw_monk_fish": "Raw MonkFish",
+  "item.islanded.cooked_monk_fish": "Cooked MonkFish",
+  "item.islanded.bucket_of_monkfish": "Bucket of MonkFish",
+
+  "item.islanded.raw_clown_fish": "Raw ClownFish",
+  "item.islanded.cooked_clown_fish": "Cooked ClownFish",
+  "item.islanded.bucket_of_clownfish": "Bucket of ClownFish",
+
+  "item.islanded.copper_diving_helmet": "Copper Diving Helmet",
+  "item.islanded.copper_diving_chestplate": "Copper Diving Suit",
+  "item.islanded.copper_diving_leggings": "Copper Diving Leggings",
+  "item.islanded.copper_diving_boots": "Copper Diving Fins"
+}

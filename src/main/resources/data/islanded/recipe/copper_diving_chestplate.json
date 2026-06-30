@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "G": "minecraft:glass"
+  },
+  "pattern": [
+    "C C",
+    "CGC",
+    "CCC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "islanded:copper_diving_chestplate"
+  }
+}
